@@ -1,3 +1,5 @@
+#Loados sean los Deltas y los Hunks
+
 *Git* nuestro
 
 Git nuestro que estas en los repos
